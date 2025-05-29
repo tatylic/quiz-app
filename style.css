@@ -60,19 +60,6 @@ h1 {
 #result {
     text-align: center;
 }
-.result-item {
-    margin: 10px 0;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    text-align: left;
-}
-.correct {
-    background-color: #e6ffe6;
-}
-.incorrect {
-    background-color: #ffe6e6;
-}
 @media (min-width: 768px) {
     h1 {
         font-size: 2em;
